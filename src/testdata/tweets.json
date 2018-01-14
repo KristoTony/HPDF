@@ -1,0 +1,47 @@
+[
+    {
+        "id": "Kronos",
+        "name": "Kronos",
+        "image": "./img/User2.jpg",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed scelerisque tellus, in elementum nulla. Maecenas vel nunc nec diam feugiat scelerisque.",
+        "images": [
+            "./img/tweetimg/1.png"
+        ]
+    },
+    {
+        "id": "Kronos",
+        "name": "Kronos",
+        "image": "./img/User2.jpg",
+        "images": [
+            "./img/tweetimg/2.png"
+        ],
+        "content": "Donec felis eros, ullamcorper vitae rutrum in, sagittis nec nisl. Sed at efficitur eros.  "
+    },
+    {
+        "id": "Visual Studio",
+        "name": "VisualStudio",
+        "image": "./img/User3.jpg",
+        "images": [
+            "./img/tweetimg/3.png"
+        ],
+        "content": "Vivamus pulvinar ornare libero, ornare aliquam neque laoreet a. Donec a lacus erat. Maecenas efficitur leo sed elementum mattis. "
+    },
+    {
+        "id": "Google",
+        "name": "GoogleDeveloper‏",
+        "image": "./img/User4.jpg",
+        "images": [
+            "./img/tweetimg/4.jpg"
+        ],
+        "content": "Nam porta condimentum tortor nec tristique. Sed tempor sed mi ac venenatis. Pellentesque eleifend purus eget posuere scelerisque.  "
+    },
+    {
+        "id": "Google",
+        "name": "GoogleDeveloper‏",
+        "image": "./img/User4.jpg",
+        "images": [
+            "./img/tweetimg/5.jpg"
+        ],
+        "content": "Duis finibus tempor diam nec venenatis. Curabitur eget augue eros. "
+    }
+]

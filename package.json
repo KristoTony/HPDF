@@ -1,0 +1,30 @@
+{
+  "name": "thebird",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://kristo_tony.github.io/twitter",
+  "dependencies": {
+    "autosuggest-highlight": "^3.1.1",
+    "gh-pages": "^1.1.0",
+    "material-ui": "^1.0.0-beta.22",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "rc-tooltip": "^3.7.0",
+    "react": "^16.2.0",
+    "react-animate-height": "^0.10.9",
+    "react-autosuggest": "^9.3.2",
+    "react-dom": "^16.2.0",
+    "react-interactive": "^0.8.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-string-replace": "^0.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "deploystatic": "gh-pages -d build -o static"
+  }
+}

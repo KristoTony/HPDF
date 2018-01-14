@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Visual Studio",
+        "id": "VisualStudio",
+        "verified": "true",
+        "url": "./img/VS.jpg"
+    },
+    {
+        "name": "React",
+        "id": "React",
+        "verified": "true",
+        "url": "./img/react.jpg"
+    },
+    {
+        "name": "Hasura",
+        "id": "HasuraHQ",
+        "verified": "true",
+        "url": "./img/User2.jpg"
+    },
+    {
+        "name": "Google Developer",
+        "id": "gdev",
+        "verified": "true",
+        "url": "./img/google.jpg"
+    }
+]
