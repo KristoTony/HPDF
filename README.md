@@ -1,8 +1,8 @@
 # The Twitter Clone HPDF Task 1
 
-**Demo**
 
-**[Hosted Demo Page](https://adevcoco.github.io/twitter/)**
+
+
 
 
 **To Install**
