@@ -11,7 +11,7 @@ Install Node v6.11.0(Recomented) / Stable
 
 ```shell
 git clone https://github.com/kristo_tony/HPDF.git
-cd Twitter
+cd HPDF
 npm install
 npm start
 ```
